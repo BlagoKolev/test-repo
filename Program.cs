@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("new message !!!");
+            Console.WriteLine("manually changed on server");
         }
     }
 }
